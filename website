@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manish Mandal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #007acc;
+            color: white;
+            padding: 1em;
+        }
+        main {
+            padding: 2em;
+        }
+        footer {
+            margin-top: 2em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Manish Mandal's Webpage!</h1>
+    </header>
+    <main>
+        <p>Hi, I'm Manish Mandal, a PhD student in Material Science Engineering. My research focuses on enhancing Nb3Sn superconductors.</p>
+        <p>Feel free to explore my <a href="https://www.linkedin.com/in/memanis/">LinkedIn</a> or contact me at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+    </main>
+    <footer>
+        <p>© 2024 Manish Mandal. All rights reserved.</p>
+    </footer>
+</body>
+</html>
